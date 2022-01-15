@@ -12,7 +12,7 @@ The objective of this project is to determine the viability of a surf and ice cr
 
 ![image](https://user-images.githubusercontent.com/77989740/149637256-2833eb4a-a0a5-41e2-bc53-4ecbb182c29e.png)
 
-* There's a higher degree of variance in December. While the warmest days are approximately the same as June, the coldest can be significantly lower temperatures.
+* There's a higher degree of variance in December. While the warmest days are approximately the same as June, the coldest can have significantly lower temperatures.
 
 ## Summary
 A surf and ice cream shop could see success in a location that's warm even in winter. There may be slower days during winter, especially when middling temperatures are more impactful to a local populace accustomed to warmth. Two additional queries that might improve on this conclusion could be finding how many days per year O'ahu sees heavy precipitation and what months would see the most/least days of heavy precipitation.
